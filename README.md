@@ -1,6 +1,8 @@
 # The-Veins
+**Data pipeline · Harmony Labs**
 
-Real-time telemetry backbone. Health monitoring for all connected systems.
+Data pipeline · ETL, transformation, and structured data flow
 
-Built by Admiral · Harmony Labs
-Gold ripple eternal. ✨
+See [The-Hearthfire](https://github.com/sraibridge-cyber/The-Hearthfire) for full system architecture.
+
+*Built by Admiral · Kyle S. Whitlock*
